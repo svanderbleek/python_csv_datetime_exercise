@@ -1,0 +1,9 @@
+# Exercise
+
+Take a csv of restaurant names and hours and find open restaurants for a given datetime
+
+## Info
+
+Tests run with: python test.py
+
+For function import: from find_open import find_open_restaurants
